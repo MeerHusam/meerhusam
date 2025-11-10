@@ -13,10 +13,10 @@ I'm a software engineer passionate about backend systems, applied AI, and mobile
 My work spans production-ready apps, research chatbots, and real-world deployments.
 
 - 🎓 **Top 3 graduate** in Computer Science @ Prince Sultan University  
-- 🌍 **Semester Abroad Scholar** @ University of Florida
+- 🌍 **Semester Abroad** @ University of Florida
 - 🤖 Former AI & Backend Intern @ **PSU Robotics & IoT Lab**  
-- 🔍 Experienced in building Autogen-powered chatbots, RAG pipelines, dashboards, and full-stack systems  
-- 💡 I enjoy shipping real products — ILMM.ai and more  
+<!-- - 🔍 Experienced in building Autogen-powered chatbots, RAG pipelines, dashboards, and full-stack systems   -->
+<!-- - 💡 I enjoy shipping real products — ILMM.ai and more   -->
 
 ---
 
@@ -60,8 +60,8 @@ My work spans production-ready apps, research chatbots, and real-world deploymen
 
 ---
 
-## 📌 Highlight Projects
-
+<!-- ## 📌 Highlight Projects -->
+<!-- 
 ### 🔹 **ILMM – Conversational Islamic Knowledge Engine**
 *Lead Backend Developer*  
 Backend infrastructure for a conversational Islamic search engine serving 1,000+ users.  
@@ -96,7 +96,7 @@ React Native + Express booking platform.
 - Prompt optimization  
 - Backend for analytics dashboard  
 
----
+--- -->
 
 ## 📊 GitHub Stats
 
@@ -104,13 +104,13 @@ React Native + Express booking platform.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeerHusam&theme=tokyonight" height="160" />
 </p>
 
----
+<!-- --- -->
 
-## 🧩 Most Used Languages
+<!-- ## 🧩 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeerHusam&layout=compact&theme=tokyonight" />
-</p>
+</p> -->
 <!-- 
 ---
 
