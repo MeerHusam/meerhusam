@@ -101,7 +101,7 @@ React Native + Express booking platform.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeerHusam&theme=tokyonight" height="160" />
+  <img src="https://streak-stats.demolab.com?user=MeerHusam&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500&cache_seconds=21600" height="160" />
 </p>
 
 <!-- --- -->
