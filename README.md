@@ -12,7 +12,7 @@
 I'm a software engineer passionate about backend systems, applied AI, and mobile development.  
 My work spans production-ready apps, research chatbots, and real-world deployments.
 
-- **Software Engineer * @ Erada Health
+- Currently Lead Software Engineer @ **Erada Health**
 - **Top 3 graduate** in Computer Science @ Prince Sultan University  
 - **Semester Abroad** @ University of Florida
 - Former AI & Backend Intern @ **PSU Robotics & IoT Lab**  
