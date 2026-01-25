@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a software engineer passionate about backend systems, applied AI, and mobile development.  
 My work spans production-ready apps, research chatbots, and real-world deployments.
@@ -20,7 +20,7 @@ My work spans production-ready apps, research chatbots, and real-world deploymen
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### **Backend & APIs**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -55,7 +55,7 @@ My work spans production-ready apps, research chatbots, and real-world deploymen
 
 ---
 
-### 🔧 Currently Exploring  
+### Currently Exploring  
 **DevOps, GitHub Actions, CI/CD pipelines, and multi-environment deployment workflows.**
 
 ---
@@ -98,12 +98,12 @@ React Native + Express booking platform.
 
 --- -->
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MeerHusam&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500&cache_seconds=21600" height="160" />
 </p>
-
+-->
 <!-- --- -->
 
 <!-- ## 🧩 Most Used Languages
@@ -122,7 +122,7 @@ React Native + Express booking platform.
 
 ---
 
-## 🧠 LeetCode Stats
+## LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/meerhusam?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats Card" />
@@ -130,18 +130,18 @@ React Native + Express booking platform.
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meerhusam)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MeerHusam)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meerhusam02@gmail.com)
 
 ---
-
+<!-- 
 <p align="center">
   <i>"I build systems that scale, tools that matter, and products people actually use."</i>
 </p>
-
+-->
 
 <!--
 **MeerHusam/meerhusam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
