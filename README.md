@@ -12,9 +12,10 @@
 I'm a software engineer passionate about backend systems, applied AI, and mobile development.  
 My work spans production-ready apps, research chatbots, and real-world deployments.
 
-- Currently Lead Software Engineer @ **Erada Health**
-- **Top 3 graduate** in Computer Science @ Prince Sultan University  
+- Currently Software Engineer @ **Ajras**
+- **#1 graduate** in Computer Science @ Prince Sultan University  
 - **Semester Abroad** @ University of Florida
+- Former Lead Software Engineer @ **Erada Health** and Founding Engineer @ **ilmm.ai**
 - Former AI & Backend Intern @ **PSU Robotics & IoT Lab**  
 <!-- - 🔍 Experienced in building Autogen-powered chatbots, RAG pipelines, dashboards, and full-stack systems   -->
 <!-- - 💡 I enjoy shipping real products — ILMM.ai and more   -->
